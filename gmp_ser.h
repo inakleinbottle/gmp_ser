@@ -17,7 +17,7 @@
 
 
 BOOST_SERIALIZATION_SPLIT_FREE(boost::multiprecision::backends::gmp_int)
-BOOST_SERIALIZATION_SPLIT_FREE(boost::multiprecision::backends::gmp_rational);
+BOOST_SERIALIZATION_SPLIT_FREE(boost::multiprecision::backends::gmp_rational)
 
 
 /*
